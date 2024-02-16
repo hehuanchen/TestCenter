@@ -42,4 +42,4 @@ jobs:
 
       - name: start run
         run: |
-          python main.py
+          python TestCenter/main.py
