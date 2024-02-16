@@ -2,7 +2,7 @@ import os
 import logging
 import requests
 
-PUSH_TOKEN=os.environ.get("PUSH_TOKEN")
+PUSH_TOKEN='aaaaa'
 Test_title = 'testing'
 Test_content = 'This is a test'
 
